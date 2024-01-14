@@ -36,12 +36,12 @@ document.getElementById("page-header").innerHTML = `
               </a>
               <ul class="dropdown-menu">
                 <li>
-                  <a class="dropdown-item" href="../../events/future-events.html"
+                  <a class="dropdown-item" href="./events/future-events.html"
                     >Future Events</a
                   >
                 </li>
                 <li>
-                  <a class="dropdown-item" href="../../events/event-archive.html"
+                  <a class="dropdown-item" href="./events/event-archive.html"
                     >Event Archive</a
                   >
                 </li>
@@ -50,10 +50,10 @@ document.getElementById("page-header").innerHTML = `
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/meet-the-board/">Meet the Board</a>
+              <a class="nav-link" href="./meet-the-board/index.html">Meet the Board</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/contact-us/">Contact Us</a>
+              <a class="nav-link" href="./contact-us/index.html">Contact Us</a>
             </li>
           </ul>
         </div>

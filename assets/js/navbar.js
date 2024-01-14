@@ -3,7 +3,7 @@ document.getElementById("page-header").innerHTML = `
     <nav class="navbar navbar-expand-md bg-body-tertiary" data-bs-theme="dark">
       <div class="container-fluid">
         <a class="navbar-brand" href="/">
-          <img src="/assets/img/Without Background.png" width="50" height="50" />
+          <img src="/assets/img/dsai_logo.png" width="50" height="50" />
           CPP Data Science & AI Club
         </a>
         <button

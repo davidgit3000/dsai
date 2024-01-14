@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "targetId": "event1",
+    "name": "First General Meeting",
+    "date": "10/24/2023",
+    "description": "This is our first general meeting",
+    "category": "General Meetings",
+    "location": "Room ####",
+    "images": ["../assets/img/first_meeting.jpeg"]
+  },
+  {
+    "id": 2,
+    "targetId": "event2",
+    "name": "Halloween Icebreaker",
+    "date": "10/31/2023",
+    "description": "This is our second meeting where we celebrated Halloween and play a fun game to connect with peers",
+    "category": "General Meetings",
+    "location": "Room ####",
+    "images": [
+      "../assets/img/first_meeting.jpeg",
+      "../assets/img/halloween_winner.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "targetId": "event3",
+    "name": "Python Competition",
+    "date": "11/07/2023",
+    "description": "This is our third meeting where we organized a fun coding competition using Python",
+    "category": "Hackathons",
+    "location": "Room ####",
+    "images": [
+      "../assets/img/first_meeting.jpeg",
+      "../assets/img/python_winners.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "targetId": "event4",
+    "name": "Pandas Workshop",
+    "date": "11/14/2023",
+    "description": "This is our fourth meeting where we introduce Panda library and its powerful benefits in data science",
+    "category": "Tech Workshops",
+    "location": "Room ####",
+    "images": ["../assets/img/first_meeting.jpeg"]
+  },
+  {
+    "id": 5,
+    "targetId": "event5",
+    "name": "Mini-Datathon",
+    "date": "11/21/2023",
+    "description": "This is our fifth meeting where we hosted a mini datathon competition using Pandas that we have learned in the last meeting",
+    "category": "Datathons",
+    "location": "Room ####",
+    "images": ["../assets/img/first_meeting.jpeg"]
+  },
+  {
+    "id": 6,
+    "targetId": "event6",
+    "name": "Mini-Datathon Recap",
+    "date": "11/28/2023",
+    "description": "This is our sixth meeting where we reviewed the last mini-datathon and revealed the solutions",
+    "category": "General Meetings",
+    "location": "Room ####",
+    "images": ["../assets/img/first_meeting.jpeg"]
+  },
+  {
+    "id": 7,
+    "targetId": "event7",
+    "name": "Spo-Cha Social",
+    "date": "12/01/2023",
+    "description": "A social event where we got together to play challenging games and chat before the upcoming finals",
+    "category": "Social Events",
+    "location": "Spo-Cha",
+    "images": [
+      "../assets/img/spo-cha/dogeball_group_photo.jpg",
+      "../assets/img/spo-cha/dodgeball_team1.jpg",
+      "../assets/img/spo-cha/dodgeball_team2.jpg",
+      "../assets/img/spo-cha/group_ninjaTurtle.jpg",
+      "../assets/img/spo-cha/group_skating.jpg",
+      "../assets/img/spo-cha/IMG_2610.jpg",
+      "../assets/img/spo-cha/IMG_2616.jpg"
+    ]
+  }
+]

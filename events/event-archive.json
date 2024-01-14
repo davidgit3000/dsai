@@ -7,7 +7,7 @@
     "description": "This is our first general meeting",
     "category": "General Meetings",
     "location": "Room ####",
-    "images": ["../assets/img/first_meeting.jpeg"]
+    "images": ["./assets/img/first_meeting.jpeg"]
   },
   {
     "id": 2,
@@ -18,8 +18,8 @@
     "category": "General Meetings",
     "location": "Room ####",
     "images": [
-      "../assets/img/first_meeting.jpeg",
-      "../assets/img/halloween_winner.jpeg"
+      "./assets/img/first_meeting.jpeg",
+      "./assets/img/halloween_winner.jpeg"
     ]
   },
   {
@@ -31,8 +31,8 @@
     "category": "Hackathons",
     "location": "Room ####",
     "images": [
-      "../assets/img/first_meeting.jpeg",
-      "../assets/img/python_winners.jpeg"
+      "./assets/img/first_meeting.jpeg",
+      "./assets/img/python_winners.jpeg"
     ]
   },
   {
@@ -43,7 +43,7 @@
     "description": "This is our fourth meeting where we introduce Panda library and its powerful benefits in data science",
     "category": "Tech Workshops",
     "location": "Room ####",
-    "images": ["../assets/img/first_meeting.jpeg"]
+    "images": ["./assets/img/first_meeting.jpeg"]
   },
   {
     "id": 5,
@@ -53,7 +53,7 @@
     "description": "This is our fifth meeting where we hosted a mini datathon competition using Pandas that we have learned in the last meeting",
     "category": "Datathons",
     "location": "Room ####",
-    "images": ["../assets/img/first_meeting.jpeg"]
+    "images": ["./assets/img/first_meeting.jpeg"]
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "description": "This is our sixth meeting where we reviewed the last mini-datathon and revealed the solutions",
     "category": "General Meetings",
     "location": "Room ####",
-    "images": ["../assets/img/first_meeting.jpeg"]
+    "images": ["./assets/img/first_meeting.jpeg"]
   },
   {
     "id": 7,
@@ -74,13 +74,13 @@
     "category": "Social Events",
     "location": "Spo-Cha",
     "images": [
-      "../assets/img/spo-cha/dogeball_group_photo.jpg",
-      "../assets/img/spo-cha/dodgeball_team1.jpg",
-      "../assets/img/spo-cha/dodgeball_team2.jpg",
-      "../assets/img/spo-cha/group_ninjaTurtle.jpg",
-      "../assets/img/spo-cha/group_skating.jpg",
-      "../assets/img/spo-cha/IMG_2610.jpg",
-      "../assets/img/spo-cha/IMG_2616.jpg"
+      "./assets/img/spo-cha/dogeball_group_photo.jpg",
+      "./assets/img/spo-cha/dodgeball_team1.jpg",
+      "./assets/img/spo-cha/dodgeball_team2.jpg",
+      "./assets/img/spo-cha/group_ninjaTurtle.jpg",
+      "./assets/img/spo-cha/group_skating.jpg",
+      "./assets/img/spo-cha/IMG_2610.jpg",
+      "./assets/img/spo-cha/IMG_2616.jpg"
     ]
   }
 ]

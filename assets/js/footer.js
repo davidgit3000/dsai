@@ -1,6 +1,7 @@
-fetch("/assets/templates/footer.html")
-  .then((response) => response.text())
-  .then((data) => {
-    document.getElementById("page-footer").innerHTML = data;
-  })
-  .catch((error) => console.error("Error fetching footer:", error));
+document.getElementById("page-footer").innerHTML = `
+      <div class="container text-center">
+        <span class="text-white">
+          © 2023 Cal Poly Pomona Data Science & AI Club · All Rights Reserved
+        </span>
+      </div>";
+`;

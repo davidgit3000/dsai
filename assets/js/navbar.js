@@ -1,5 +1,5 @@
 // Load Navbar in pages
-fetch("/assets/templates/navbar.html")
+fetch("./assets/templates/navbar.html")
   .then((response) => response.text())
   .then((data) => {
     document.getElementById("page-header").innerHTML = data;

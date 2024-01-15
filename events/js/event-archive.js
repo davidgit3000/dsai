@@ -11,19 +11,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (val.images && Array.isArray(val.images)) {
           val.images.forEach((image, index) => {
-            if (index === 0) {
-              carouselItems += `
-                <div class="carousel-item active" data-bs-interval="4000">
+            carouselItems +=
+              index === 0
+                ? `
+                <div class="carousel-item active">
+                  <img src=${image} class="d-block w-100"/>
+                </div>
+              `
+                : `
+                <div class="carousel-item">
                   <img src=${image} class="d-block w-100"/>
                 </div>
               `;
-            } else {
-              carouselItems += `
-                <div class="carousel-item" data-bs-interval="3000">
-                  <img src=${image} class="d-block w-100"/>
-                </div>
-              `;
-            }
           });
         }
 

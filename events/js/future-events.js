@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Fetch data from the JSON file
-  fetch("/events/future-events.json")
+  fetch("/dsai/events/future-events.json")
     .then((response) => response.json())
     .then((data) => {
       // Access the data and put it in the DOM
